@@ -1,0 +1,13 @@
+*.bam
+*.bai
+*.fastq.gz
+*.fq.gz
+*.fa
+*.fa.fai
+*.vcf.gz
+*.vcf.gz.tbi
+work/
+.nextflow/
+*.log
+*.html
+*.sif

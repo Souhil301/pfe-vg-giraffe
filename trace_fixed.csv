@@ -1,0 +1,6 @@
+task_id	name	status	exit	realtime	cpus	%cpu	peak_rss	rchar	wchar
+5	VG_CALL_CHR (vgcall_chr5)	FAILED	134	24m 24s	4	-	-	-	-
+6	VG_CALL_CHR (vgcall_chr6)	FAILED	134	24m 25s	4	-	-	-	-
+13	VG_CALL_CHR (vgcall_chr13)	ABORTED	-	-	4	-	-	-	-
+12	VG_CALL_CHR (vgcall_chr12)	ABORTED	-	-	4	-	-	-	-
+7	VG_CALL_CHR (vgcall_chr7)	ABORTED	-	-	4	-	-	-	-
