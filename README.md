@@ -36,7 +36,7 @@ vg minimizer -t 16 -d grch38.dist -z grch38.shortread.zipcodes \
     -o grch38.shortread.withzip.min grch38.giraffe.gbz         # 2h
 ```
 
-The rebuilt indexes (vg v1.70.0 compatible) are available at: **[ZENODO DOI TBD]**
+The rebuilt indexes (vg v1.70.0 compatible) are available at: **[Comming soon]**
 
 ## Requirements
 
